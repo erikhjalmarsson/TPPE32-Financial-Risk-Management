@@ -1,0 +1,27 @@
+  GNU nano 7.1                       .gitignore                       Modified
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
+
+# Octave session info 
+octave-workplace
+
+# Graph pictures
+pictures/
