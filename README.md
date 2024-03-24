@@ -3,7 +3,7 @@
 This is the repository for the course TPPE32 - Financial Risk Management. 
 
 ## Tips
-This course is quite heavy in terms of contents and but an easy task to remember all of the equations. If possible, start an early LaTeX document outlining all equations that you stumble upon. IT will help you during the exam period. A similar document to the one mentioned is in this repository. 
+This course contains a substantial amount of content, making it challenging to remember all the equations. It would be beneficial to start an early LaTeX document to compile all encountered equations, aiding you during the exam period. A similar document can be found in this repository for reference.
 
 ## Assignment 1
 Time series analysis, Volatility estimation and Copulas
